@@ -1,0 +1,10 @@
+git config --global user.email "axiumtechnologiesbd@gmail.com"
+git config --global user.name "Axiumtechnologies"
+
+Learn Git Part-1 :
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/axiumtechnologies/learning.git
+git push -u origin master
